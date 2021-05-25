@@ -1,0 +1,16 @@
+Potenciometro Digital I2C
+
+En este repositorio existen ejemplos para la muestra en marcha del
+potenciometro digital I2C con el IDE de Arduino.
+
+Conexiones:
+VDD -> A VCC puede ser 5V o 3.3V
+VSS -> GND
+SCL -> A5
+SDA -> A4
+A -> VCC
+
+Aster electronica
+Potenciometro MCP40XXT 502E
+Prueba de funcionamiento
+Por Julio Hernandez
